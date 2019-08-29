@@ -1,0 +1,22 @@
+{
+  "name": "appium-javascript",
+  "version": "1.0.0",
+  "description": "Project appium in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "e2e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hewerthon/appium-javascript.git"
+  },
+  "keywords": [
+    "appium"
+  ],
+  "author": "Hewerthon Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hewerthon/appium-javascript/issues"
+  },
+  "homepage": "https://github.com/hewerthon/appium-javascript#readme"
+}
